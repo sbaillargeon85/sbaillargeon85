@@ -2,4 +2,4 @@
 - 👀 I’m interested in data, chess and charts.
 - 🌱 I’m currently learning C#, Python and R.
 - 💞️ I’m looking to collaborate on anything new and exciting that includes data visualization.
-- 📫 How to reach me: you've got a perfect way here on Github! I'm also pretty active in LinkedIn, or you can write me an e-mail ;)
+- 📫 How to reach me: you've got a perfect way here on Github! I'm also pretty active in LinkedIn, or you can write me an e-mail 😉
